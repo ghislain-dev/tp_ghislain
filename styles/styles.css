@@ -1,0 +1,91 @@
+#titre1A{
+    text-align: center;
+    color: white;
+    text-shadow: black 3px  5px 5px;
+    font-size: 2.5em;
+}
+.titreA{
+    text-align: center;
+    color: white;
+    text-shadow: black 3px  5px 5px;
+    font-size: 2.5em;
+}
+
+.titreA ,h2{
+    text-align: center;
+    
+    text-shadow: black 3px  5px 5px;
+    font-size: 2.5em;
+}
+.imageA{
+    display: flex;
+    justify-content: center;
+}
+#image{
+    background: url(../image/image/header.jpg) fixed no-repeat;
+    height: 150px;
+    background-size: cover;
+    display: flex;
+   
+}
+header .aspirant {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.footercontact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.footercontact li, a{
+    color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+
+
+#photo1A{
+    background-color: burlywood;
+    background-size: cover;
+   
+    padding: 20px ;
+    margin: 0px 10px 10px 10px;
+}
+#num{
+    background-color: gray;
+    background-size: cover;
+    padding: 20px;
+    margin-top: 20px;
+    margin: 0px 10px 0px 10px;
+}
+#numérisation{
+    font-size: 2em;
+}
+#avantage{
+    background: url('image/titre.jpg') fixed no-repeat;
+    background-size: cover;
+    height: 80px;
+}
+#premierimage{
+    background: url("../image/titre.jpg") no-repeat;
+    background-size: cover;
+    height: 80vh;
+    margin: 10px;
+}
+
+.carousel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

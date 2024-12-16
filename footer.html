@@ -1,0 +1,37 @@
+<!-- <?php
+ if(isset($_COOKIE['accept_cookie']))
+ {
+     $showcookie =false;
+ }
+ else{
+     $showcookie =true;
+ }
+
+?>
+
+<?php if($showcookie) { ?>
+    <div class="cookie-alert">
+        En poursuivant votre navigation sur ce site, vous acceptez l'utilisation de cookies pour vous proposer de contenus et services adaptés à vos centres d'intéréts.  <br> <a href="accept_cookie.php">ok</a>
+    </div>
+<?php } ?> -->
+
+<footer class="footer m-3 ">
+      <hr> 
+       
+            <div class="footercontact"> 
+                
+                    
+                <ul>
+                    <li><h3>Nous contacter sur</h3>  </li>
+                    <li><a class="bi bi-whatsapp" href="https://wa.me/+243976052184">whatsapp</a></li>
+                    <li><a class="bi bi-facebook" href="tel:+243976052184">+243976052184</a></li> 
+                    
+                    
+                    
+                </ul>
+            </div>
+       
+        <div class="titrefooter text text-center">
+          <p>Tout droits réservés &copy;2024, Aspirant Ghislain</p>
+       </div>
+</footer>
